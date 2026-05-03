@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ya Rouhi La Tfouti – My Soul, Don't Pass By |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-rouhi-la-tfouti-my-soul-dont-pass-by/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا روحي لا تفوتي في ظلام الليل
+> نار الشوق تكويني، وقلبي يميل
+> بين الظلال أبحث عن نورك الدليل
+> دقات قلبي تنادي، هل من سبيل؟
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
