@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-rouhi-la-tfouti-my-soul-dont-pass-by/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Request Licensing for Ya Rouhi La Tfouti – My Soul, Don't Pass By](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
