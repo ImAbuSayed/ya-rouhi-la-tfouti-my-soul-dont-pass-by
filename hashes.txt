@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Rouhi La Tfouti – My Soul, Don't Pass By
+
+This log tracks the cryptographic history and versioning for the song **Ya Rouhi La Tfouti – My Soul, Don't Pass By** (ya-rouhi-la-tfouti-my-soul-dont-pass-by).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:39:51.229905 | `v1` | `a774547b39bbc986ef4cc6ec387714ad4ccb39ef92aedac65cba86676899ce71` | `0dec2bf2ac75d0286418b839245394134d672ce676144c88bfb301fdefebdd39` | `2026-05-09_ya-rouhi-la-tfouti-my-soul-dont-pass-by-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
